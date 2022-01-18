@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guillermina-fernandez
 - 👀 I’m interested in becoming a Python Developer
 - 🌱 I’m currently learning SQL, Python and Django
-- 💞️ I’m looking to collaborate on projects that help me improve my progtamming skills
+- 💞️ I’m looking to collaborate on projects that help me improve my programming skills
 - 📫 You can reach my at my e-mail gfernandez@faroshipweb.com.ar or my Linkedin page: www.linkedin.com/in/guillermina-fernandez-b436391ab
 
 <!---
