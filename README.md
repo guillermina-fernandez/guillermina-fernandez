@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guillermina-fernandez
-- 👀 I’m interested in getting my first job as a programmer while learning new skills
-- 🌱 I’m currently learning Python and Django
+- 👀 I’m interested in getting my a job as a Python developer while learning new skills
+- 🌱 I’m currently working with Python and Django
 - 💞️ I’m looking to collaborate on new projects
 - 📫 You can contact me at guillermina.m.fernandez1987@gmail.com
 
