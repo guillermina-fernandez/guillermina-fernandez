@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guillermina-fernandez
-- 👀 I’m interested in becomoming a skilled developer
+- 👀 I’m interested in becoming a skilled developer
 - 🌱 I’m currently working with Python and Django
 - 💞️ I’m looking to collaborate on new projects
 - 📫 You can contact me at guillermina.m.fernandez1987@gmail.com
