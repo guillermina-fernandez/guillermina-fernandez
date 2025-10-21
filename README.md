@@ -14,7 +14,7 @@ I have studied the business model and its requirements, laid out the models and 
 
 ## Contact Me 📫
 
-If you want to get in touch, feel free to email me at guillermina.m.fernandez1987@gmail.com. I'm always open to new opportunities and collaborations!
+If you want to get in touch, feel free to email me at guillermina.fernandez.dev@gmail.com. I'm always open to new opportunities and collaborations!
 
 Thank you for visiting my GitHub profile.
 
