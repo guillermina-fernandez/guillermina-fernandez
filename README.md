@@ -2,10 +2,6 @@
 
 I'm a fast learner, self-trained, independent developer with a passion for problem-solving and making processes more efficient. I'm adaptable to new tasks and obligations and always eager to learn and grow.
 
-## What I'm Interested In 🔍
-
-My main goal is to become a skilled developer. I enjoy working with new technologies and tools, and I'm always looking for ways to improve my skills.
-
 ## What I've Been Working On 🌱
 
 I've developed various tools with Python and Django, implementing databases with MySQL and SQL, and streamlining various processes with Javascript. I'm currently working with DRF and React.
